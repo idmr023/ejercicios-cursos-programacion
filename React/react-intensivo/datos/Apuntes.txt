@@ -1,0 +1,7 @@
+En React "class" es una palabra reservada y en html se deben cambiar por className o saltará error
+El enrutamiento es para paginas no componentes
+Las funciones deben exportarse o no servirán de nada
+
+useParams: si llamamos a una página enrutada se pueden rescatar los parametros enviados a traves de la url
+
+x.results -> se usa cuando el elemento en cuestión al que queremos acceder tiene varios resultados

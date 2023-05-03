@@ -1,0 +1,1 @@
+SELECT pid AS "ID", pstate AS "State", pcity AS "City" FROM people;
