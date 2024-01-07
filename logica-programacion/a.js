@@ -1,1 +1,0 @@
-var esto = document.write("<br>");

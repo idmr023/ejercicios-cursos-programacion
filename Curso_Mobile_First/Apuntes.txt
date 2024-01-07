@@ -1,1 +1,0 @@
-cuando usemos position absolute, hay que colocarle position relative al padre directo para delimitar su movimientow
