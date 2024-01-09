@@ -1,0 +1,2 @@
+Los componentes son aprtes de las páginas
+<link> sirve para navegar entre rutas

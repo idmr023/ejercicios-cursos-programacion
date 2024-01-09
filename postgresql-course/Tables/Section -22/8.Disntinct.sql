@@ -1,0 +1,1 @@
+SELECT DISTINCT pfirstname, plastname FROM people;
